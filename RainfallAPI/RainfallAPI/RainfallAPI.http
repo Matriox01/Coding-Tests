@@ -1,0 +1,6 @@
+@RainfallAPI_HostAddress = http://localhost:3000
+
+GET {{http://localhost:3000}}/rainfall/id/stations/{stationId}/readings
+Accept: application/json
+
+###
